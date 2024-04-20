@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C8E8E48F-5D4E-4E5D-929E-739246DB14DF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D7FDE03-A18E-4967-A5EF-7190F265A0C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExerciseHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "checkCompletion()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D7FDE03-A18E-4967-A5EF-7190F265A0C7 - 21a08bc60b11d3d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc24.ExerciseHandler.checkCompletion() -&gt; ()"
+                  moduleName = "wwdc24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hadamelino/Desktop/Projects/wwdc24.swiftpm/ExerciseHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "1D7FDE03-A18E-4967-A5EF-7190F265A0C7 - 21a08bc60b11d3f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wwdc24.ExerciseHandler.checkCompletion() -&gt; ()"
+                  moduleName = "wwdc24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hadamelino/Desktop/Projects/wwdc24.swiftpm/ExerciseHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "1D7FDE03-A18E-4967-A5EF-7190F265A0C7 - b54367cc9e9f41e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stretch_Desk.ExerciseHandler.checkCompletion() -&gt; ()"
+                  moduleName = "Stretch Desk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hadamelino/Desktop/Projects/StretchDesk/StretchDesk.swiftpm/ExerciseHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CF017B8-ECD1-4A14-8EF6-E004B9619167"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExerciseHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "bindTimer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4CF017B8-ECD1-4A14-8EF6-E004B9619167 - 5d70b904fd4cf69c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Date) -&gt; () in wwdc24.ExerciseHandler.bindTimer() -&gt; ()"
+                  moduleName = "wwdc24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hadamelino/Desktop/Projects/wwdc24.swiftpm/ExerciseHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1116">
+               </Location>
+               <Location
+                  uuid = "4CF017B8-ECD1-4A14-8EF6-E004B9619167 - 5d70b904fd4cf9b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Date) -&gt; () in wwdc24.ExerciseHandler.bindTimer() -&gt; ()"
+                  moduleName = "wwdc24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hadamelino/Desktop/Projects/wwdc24.swiftpm/ExerciseHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "4CF017B8-ECD1-4A14-8EF6-E004B9619167 - a1e1d2da08cfd62b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Date) -&gt; () in Stretch_Desk.ExerciseHandler.bindTimer() -&gt; ()"
+                  moduleName = "Stretch Desk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hadamelino/Desktop/Projects/StretchDesk/StretchDesk.swiftpm/ExerciseHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "832">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01812BD8-8078-4CEE-A4A8-6027FE593C89"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExerciseHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "bindTimer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "01812BD8-8078-4CEE-A4A8-6027FE593C89 - c802dce6226e7fd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Foundation.Date) -&gt; () in wwdc24.ExerciseHandler.bindTimer() -&gt; ()"
+                  moduleName = "wwdc24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hadamelino/Desktop/Projects/wwdc24.swiftpm/ExerciseHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "01812BD8-8078-4CEE-A4A8-6027FE593C89 - 21e7263521db4d7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[0] = Value Promoted from Box&gt; of closure #1 @Swift.MainActor () -&gt; () in closure #1 (Foundation.Date) -&gt; () in wwdc24.ExerciseHandler.bindTimer() -&gt; ()"
+                  moduleName = "wwdc24"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hadamelino/Desktop/Projects/wwdc24.swiftpm/ExerciseHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "01812BD8-8078-4CEE-A4A8-6027FE593C89 - 4caf16878bc0b38a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[0] = Value Promoted from Box&gt; of closure #1 @Swift.MainActor () -&gt; () in closure #1 (Foundation.Date) -&gt; () in Stretch_Desk.ExerciseHandler.bindTimer() -&gt; ()"
+                  moduleName = "Stretch Desk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hadamelino/Desktop/Projects/StretchDesk/StretchDesk.swiftpm/ExerciseHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "660">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
